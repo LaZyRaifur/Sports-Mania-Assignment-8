@@ -19,4 +19,5 @@
 <li>Data destructuring in every component where it needed
 <li>Readme file clean and added few important lines
 <li>[Live website address](https://zealous-goldwasser-3b721a.netlify.app/)
+  <li>[repo link] (https://github.com/LaZyRaifur/Sports-Mania-Assignment-8)
 
