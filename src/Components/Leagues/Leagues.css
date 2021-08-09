@@ -1,0 +1,33 @@
+.card{
+    background-color: rgb(230, 230, 230);
+    text-align: center;
+    margin-left: 80px;
+    height: 340px;
+    box-shadow: 5px 10px 8px #b1b1a865;
+    font-family: 'Bungee Inline', cursive;
+    border-radius: 5px;
+}
+.card:hover{
+    background-color:rgba(209, 6, 151, 0.144) ;
+    color: rgba(66, 62, 62, 0.219);
+    color: white;
+}
+.card .card-image{
+    height: 140px;
+    width: 160px;
+    margin: 15px 65px;
+
+}
+.sports-text{
+    margin-left: 15px;
+
+}
+.button-style{
+    border-radius: 4px;
+    background-color: rgb(90, 12, 236);
+    height: 40px;
+    color: white;
+    width: 100px;
+
+    
+}
