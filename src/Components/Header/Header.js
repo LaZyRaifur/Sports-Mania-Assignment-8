@@ -7,7 +7,7 @@ const Header = () => {
     <div className="header-container">
       <img src={banner} alt="" />
       <div className="title">
-        <h1>Sports Mania</h1>
+        <h1>Super League 2021</h1>
       </div>
     </div>
   );
